@@ -29,7 +29,6 @@ public class Linkedlist {
             size++;
         }
     }
-    
 
     public void middle(int data,int position){
         Single da = new Single(data);
